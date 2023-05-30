@@ -5,7 +5,6 @@
 Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando React
 - 😄 Pronouns: Ela/dela
 
 <div align="center">
